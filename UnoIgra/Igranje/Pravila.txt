@@ -1,0 +1,29 @@
+					PRAVILA
+
+*************************************************************************************************
+
+Ova konzolna aplikacija predstavlja igru Uno.
+U nasoj igri sudjeluju 2 igraca(covjek i robot).
+Igru igras protiv robota. U pocetku imas 7 karata kao i robot,
+a ovisi o tvom potezu ili potezu robota mozes smanjiti ili povecati
+broj karata u ruci. Karte koje mozes imati su obicne i specijalne.
+Obicne karte predstavljaju karte s brojevima 1-9 u 4 boje(crvena,zuta,zelena,plava)
+*************************************************************************************************
+				    SPECIJALNE KARTE
+--->|+2|-plus dva
+--->|+4|-plus cetiri
+--->|/|-skip
+--->|^|-promjena smjera
+--->|c|-promjena boje
+*************************************************************************************************
+Igru igras tako da prvo odaberes zelis li igrati sa novim igracem ili postojecim. 
+Nakon izbora otvara ti se igra. nakon toga vidis stol na kojoj je pocetna karta,
+svoje karte i broj koliko karata ima robot. Na tipkovnici upises broj ili boju koju 
+imas,ako nemas kartu moras pritisniti slovo f i dobit ces jednu kartu. Ako i nakon
+toga ne mozes odigrati moras ponoviti postupak. U skucaju da zelis odigrati skip(|/|)
+moras pritisniti slovo s. |+2| i |+4| povecavaju broj karta u ruci tebi ili protivniku
+ovisno o tome tko je odigrao. Igra je gotova kad je jedan od vas ostao bez karta u 
+ruci.
+************************************************************************************************* 
+P.S.UZIVAJ U IGRANJU!!!
+								Antonela,Mia i Petra :D

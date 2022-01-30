@@ -1,0 +1,82 @@
+{
+  "korisnik": [
+    {
+      "korisnik_ime": "Antonela",
+      "odigrano": 2,
+      "pobjede": 1,
+      "izgubljeno": 1
+    },
+    {
+      "korisnik_ime": "Mia",
+      "odigrano": 2,
+      "pobjede": 1,
+      "izgubljeno": 1
+    },
+    {
+      "korisnik_ime": "Maria",
+      "odigrano": 0,
+      "pobjede": 0,
+      "izgubljeno": 0
+    },
+    {
+      "korisnik_ime": "Petra",
+      "odigrano": 7,
+      "pobjede": 5,
+      "izgubljeno": 2
+    },
+    {
+      "korisnik_ime": "Marko",
+      "odigrano": 0,
+      "pobjede": 0,
+      "izgubljeno": 0
+    },
+    {
+      "korisnik_ime": "Ana",
+      "odigrano": 0,
+      "pobjede": 0,
+      "izgubljeno": 0
+    },
+    {
+      "korisnik_ime": "Josip",
+      "odigrano": 0,
+      "pobjede": 0,
+      "izgubljeno": 0
+    },
+    {
+      "korisnik_ime": "Stipe",
+      "odigrano": 0,
+      "pobjede": 0,
+      "izgubljeno": 0
+    },
+    {
+      "korisnik_ime": "Antonija",
+      "odigrano": 0,
+      "pobjede": 0,
+      "izgubljeno": 0
+    },
+    {
+      "korisnik_ime": "Tomislav",
+      "odigrano": 2,
+      "pobjede": 1,
+      "izgubljeno": 1
+    },
+    {
+      "korisnik_ime": "Bruno",
+      "odigrano": 0,
+      "pobjede": 0,
+      "izgubljeno": 0
+    },
+    {
+      "korisnik_ime": "Petar",
+      "odigrano": 4,
+      "pobjede": 3,
+      "izgubljeno": 1
+    },
+    {
+      "korisnik_ime": "Jure",
+      "odigrano": 2,
+      "pobjede": 2,
+      "izgubljeno": 0
+    }
+  ]
+}
